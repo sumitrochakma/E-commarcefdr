@@ -63,7 +63,7 @@ function App() {
      </div>
      {/* catagory part end */}
      {/* Banner part start */}
-     <div className="bg-bannerImg w-full py-[300px]"></div>
+     <div className="bg-bannerImg py-[300px]"></div>
      {/* Banner part end */}
      {/* information part start */}
      <div className="w-full py-[30px]">
